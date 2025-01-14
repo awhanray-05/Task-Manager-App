@@ -1,43 +1,51 @@
-# Task Manager App  
+# 📋 Task Manager App  
 
-The **Task Manager App** is a robust and feature-packed Android application designed to help users manage their daily tasks efficiently. Built with Jetpack Compose and Room, this app combines modern UI/UX design with powerful backend features to deliver a seamless task management experience.  
-
----
-
-## Features  
-
-- **Add New Tasks**: Create tasks with essential details like title, description, deadline date, and time.  
-- **Edit Existing Tasks**: Easily update task details to reflect changes.  
-- **Delete Tasks**: Remove tasks with a swipe-to-delete gesture.  
-- **Task List View**: Scroll through a categorized list of tasks with intuitive navigation.  
-- **Material Design**: Experience a clean and modern UI adhering to Material Design guidelines.  
-- **Swipe-to-Dismiss**: Intuitive swipe gestures to quickly delete tasks.  
-- **MVVM Architecture**: Ensures scalability, maintainability, and clear separation of concerns.  
-- **Offline Support**: Tasks are stored locally using Room, allowing users to manage their tasks offline.  
+A modern, user-friendly Android app for organizing and managing your daily tasks efficiently. Built with Jetpack Compose, Room Database, and Material Design 3, the app provides an intuitive interface to add, edit, and delete tasks seamlessly.  
 
 ---
 
-## Tech Stack  
+## ✨ Features  
 
-- **Programming Language**: Kotlin  
-- **UI Framework**: Jetpack Compose  
-- **Local Database**: Room (SQLite)  
-- **Architecture**: MVVM (Model-View-ViewModel)  
-- **Navigation**: Jetpack Navigation Component  
-- **Coroutines**: Used for handling asynchronous operations  
+- ✅ **Add Tasks**: Easily add tasks with deadlines.  
+- 🖊️ **Edit Tasks**: Update your existing tasks with a simple interface.  
+- 🗑️ **Delete Tasks**: Swipe to delete tasks effortlessly.  
+- 📅 **Schedule Deadlines**: Set specific dates and times for tasks using a beautiful date and time picker.  
+- 🌙 **Modern UI**: Eye-catching design with Material Design 3 and Jetpack Compose.  
+- 📦 **Offline First**: Fully functional without an internet connection, thanks to Room Database integration.  
 
 ---
 
-## Installation  
+## 🛠️ Technologies Used  
 
-Follow these steps to set up and run the project on your local machine:  
+- **Kotlin**: For robust, type-safe programming.  
+- **Jetpack Compose**: To build modern, declarative UIs.  
+- **Room Database**: For local data storage and seamless CRUD operations.  
+- **Material Design 3**: For a visually appealing and intuitive design.  
+
+---
+
+## 📸 Screenshots  
+
+### Task List  
+![Task List](assets/images/task_list.png)  
+
+### Add Task  
+![Add Task](assets/images/add_task.png)  
+
+### Edit Task  
+![Edit Task](assets/images/edit_task.png)  
+
+---
+
+## 🚀 Getting Started  
+
+Follow these steps to set up the project locally:  
 
 ### Prerequisites  
+1. **Android Studio**: Download and install [Android Studio](https://developer.android.com/studio).  
+2. **Java/Kotlin Knowledge**: Basic understanding of Kotlin and Android development.  
 
-- Android Studio (Latest version recommended)  
-- A physical or virtual Android device running API level 21 or higher  
-
-### Steps  
+### Installation  
 
 1. **Clone the Repository**  
    ```bash  
