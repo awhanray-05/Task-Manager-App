@@ -27,13 +27,13 @@ A modern, user-friendly Android app for organizing and managing your daily tasks
 ## 📸 Screenshots  
 
 ### Task List  
-![Task List](assets/images/task_list.png)  
+![Task List](assets/images/task_list.jpg)  
 
 ### Add Task  
-![Add Task](assets/images/add_task.png)  
+![Add Task](assets/images/add_task.jpg)  
 
 ### Edit Task  
-![Edit Task](assets/images/edit_task.png)  
+![Edit Task](assets/images/update_task.jpg)  
 
 ---
 
